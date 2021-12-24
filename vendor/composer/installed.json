@@ -1,0 +1,1453 @@
+{
+    "packages": [
+        {
+            "name": "bas/wordpress-plugin-acf-addon",
+            "version": "1.0.0",
+            "version_normalized": "1.0.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://bitbucket.chenmed.com/scm/bas/wordpress-plugin-acf-addon.git",
+                "reference": "master"
+            },
+            "type": "wordpress-plugin",
+            "installation-source": "source",
+            "install-path": "../../plugins/wordpress-plugin-acf-addon"
+        },
+        {
+            "name": "bas/wordpress-plugin-advanced-custom-fields-pro",
+            "version": "5.9.5",
+            "version_normalized": "5.9.5.0",
+            "source": {
+                "type": "git",
+                "url": "https://bitbucket.chenmed.com/scm/bas/wordpress-plugin-advanced-custom-fields-pro.git",
+                "reference": "master"
+            },
+            "type": "wordpress-plugin",
+            "installation-source": "source",
+            "install-path": "../../plugins/wordpress-plugin-advanced-custom-fields-pro"
+        },
+        {
+            "name": "bas/wordpress-plugin-caldera-form-addon-file-upload-s3",
+            "version": "1.0.2",
+            "version_normalized": "1.0.2.0",
+            "source": {
+                "type": "git",
+                "url": "https://bitbucket.chenmed.com/scm/bas/wordpress-plugin-caldera-form-addon-file-upload-s3.git",
+                "reference": "master"
+            },
+            "type": "wordpress-plugin",
+            "installation-source": "source",
+            "install-path": "../../plugins/wordpress-plugin-caldera-form-addon-file-upload-s3"
+        },
+        {
+            "name": "bas/wordpress-plugin-carousel",
+            "version": "2.0.17",
+            "version_normalized": "2.0.17.0",
+            "source": {
+                "type": "git",
+                "url": "https://bitbucket.chenmed.com/scm/bas/wordpress-plugin-carousel.git",
+                "reference": "master"
+            },
+            "type": "wordpress-plugin",
+            "installation-source": "source",
+            "install-path": "../../plugins/wordpress-plugin-carousel"
+        },
+        {
+            "name": "bas/wordpress-plugin-chenmed-bulk-uploader",
+            "version": "1.0.2",
+            "version_normalized": "1.0.2.0",
+            "source": {
+                "type": "git",
+                "url": "https://bitbucket.chenmed.com/scm/bas/wordpress-plugin-chenmed-bulk-uploader.git",
+                "reference": "master"
+            },
+            "type": "wordpress-plugin",
+            "installation-source": "source",
+            "install-path": "../../plugins/wordpress-plugin-chenmed-bulk-uploader"
+        },
+        {
+            "name": "bas/wordpress-plugin-chenmed-gatekeeper",
+            "version": "1.0.7.1",
+            "version_normalized": "1.0.7.1",
+            "source": {
+                "type": "git",
+                "url": "https://bitbucket.chenmed.com/scm/bas/wordpress-plugin-chenmed-gatekeeper.git",
+                "reference": "master"
+            },
+            "type": "wordpress-plugin",
+            "installation-source": "source",
+            "install-path": "../../plugins/wordpress-plugin-chenmed-gatekeeper"
+        },
+        {
+            "name": "bas/wordpress-plugin-chenmed-hypergrowth",
+            "version": "1.0.1",
+            "version_normalized": "1.0.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://bitbucket.chenmed.com/scm/bas/wordpress-plugin-chenmed-hypergrowth.git",
+                "reference": "master"
+            },
+            "type": "wordpress-plugin",
+            "installation-source": "source",
+            "install-path": "../../plugins/wordpress-plugin-chenmed-hypergrowth"
+        },
+        {
+            "name": "bas/wordpress-plugin-chenmed-job-profile-access-control",
+            "version": "1.0.7",
+            "version_normalized": "1.0.7.0",
+            "source": {
+                "type": "git",
+                "url": "https://bitbucket.chenmed.com/scm/bas/wordpress-plugin-chenmed-job-profile-access-control.git",
+                "reference": "master"
+            },
+            "type": "wordpress-plugin",
+            "installation-source": "source",
+            "install-path": "../../plugins/wordpress-plugin-chenmed-job-profile-access-control"
+        },
+        {
+            "name": "bas/wordpress-plugin-chenmed-secure-files-acf-field-type",
+            "version": "1.0.4",
+            "version_normalized": "1.0.4.0",
+            "source": {
+                "type": "git",
+                "url": "https://bitbucket.chenmed.com/scm/bas/wordpress-plugin-chenmed-secure-files-acf-field-type.git",
+                "reference": "master"
+            },
+            "type": "wordpress-plugin",
+            "installation-source": "source",
+            "install-path": "../../plugins/wordpress-plugin-chenmed-secure-files-acf-field-type"
+        },
+        {
+            "name": "bas/wordpress-plugin-chenmed-taxonomies",
+            "version": "1.0.0",
+            "version_normalized": "1.0.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://bitbucket.chenmed.com/scm/bas/wordpress-plugin-chenmed-taxonomies.git",
+                "reference": "master"
+            },
+            "type": "wordpress-plugin",
+            "installation-source": "source",
+            "install-path": "../../plugins/wordpress-plugin-chenmed-taxonomies"
+        },
+        {
+            "name": "bas/wordpress-plugin-chenmed-taxonomy-widget",
+            "version": "1.0.0",
+            "version_normalized": "1.0.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://bitbucket.chenmed.com/scm/bas/wordpress-plugin-chenmed-taxonomy-widget.git",
+                "reference": "master"
+            },
+            "type": "wordpress-plugin",
+            "installation-source": "source",
+            "install-path": "../../plugins/wordpress-plugin-chenmed-taxonomy-widget"
+        },
+        {
+            "name": "bas/wordpress-plugin-chenmed-user-permissions",
+            "version": "1.0.2",
+            "version_normalized": "1.0.2.0",
+            "source": {
+                "type": "git",
+                "url": "https://bitbucket.chenmed.com/scm/bas/wordpress-plugin-chenmed-user-permissions.git",
+                "reference": "master"
+            },
+            "type": "wordpress-plugin",
+            "installation-source": "source",
+            "install-path": "../../plugins/wordpress-plugin-chenmed-user-permissions"
+        },
+        {
+            "name": "bas/wordpress-plugin-chenmed-user-profile-fields",
+            "version": "1.0.3",
+            "version_normalized": "1.0.3.0",
+            "source": {
+                "type": "git",
+                "url": "https://bitbucket.chenmed.com/scm/bas/wordpress-plugin-chenmed-user-profile-fields.git",
+                "reference": "master"
+            },
+            "type": "wordpress-plugin",
+            "installation-source": "source",
+            "install-path": "../../plugins/wordpress-plugin-chenmed-user-profile-fields"
+        },
+        {
+            "name": "bas/wordpress-plugin-content-toggle",
+            "version": "1.0.0",
+            "version_normalized": "1.0.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://bitbucket.chenmed.com/scm/bas/wordpress-plugin-content-toggle.git",
+                "reference": "master"
+            },
+            "type": "wordpress-plugin",
+            "installation-source": "source",
+            "install-path": "../../plugins/wordpress-plugin-content-toggle"
+        },
+        {
+            "name": "bas/wordpress-plugin-divi-map-extended-module",
+            "version": "3.1.4",
+            "version_normalized": "3.1.4.0",
+            "source": {
+                "type": "git",
+                "url": "https://bitbucket.chenmed.com/scm/bas/wordpress-plugin-divi-map-extended-module.git",
+                "reference": "master"
+            },
+            "type": "wordpress-plugin",
+            "installation-source": "source",
+            "install-path": "../../plugins/wordpress-plugin-divi-map-extended-module"
+        },
+        {
+            "name": "bas/wordpress-plugin-divi-modal-popup",
+            "version": "1.0.3",
+            "version_normalized": "1.0.3.0",
+            "source": {
+                "type": "git",
+                "url": "https://bitbucket.chenmed.com/scm/bas/wordpress-plugin-divi-modal-popup.git",
+                "reference": "master"
+            },
+            "type": "wordpress-plugin",
+            "installation-source": "source",
+            "install-path": "../../plugins/wordpress-plugin-divi-modal-popup"
+        },
+        {
+            "name": "bas/wordpress-plugin-knowledge-base-document-types",
+            "version": "1.0.1",
+            "version_normalized": "1.0.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://bitbucket.chenmed.com/scm/bas/wordpress-plugin-knowledge-base-document-types.git",
+                "reference": "master"
+            },
+            "type": "wordpress-plugin",
+            "installation-source": "source",
+            "install-path": "../../plugins/wordpress-plugin-knowledge-base-document-types"
+        },
+        {
+            "name": "bas/wordpress-plugin-ninja-forms-file-uploads",
+            "version": "3.3.11",
+            "version_normalized": "3.3.11.0",
+            "source": {
+                "type": "git",
+                "url": "https://bitbucket.chenmed.com/scm/bas/wordpress-plugin-ninja-forms-file-uploads.git",
+                "reference": "master"
+            },
+            "type": "wordpress-plugin",
+            "installation-source": "source",
+            "install-path": "../../plugins/wordpress-plugin-ninja-forms-file-uploads"
+        },
+        {
+            "name": "bas/wordpress-plugin-ninja-forms-pdf-form-submissions",
+            "version": "3.1.4",
+            "version_normalized": "3.1.4.0",
+            "source": {
+                "type": "git",
+                "url": "https://bitbucket.chenmed.com/scm/bas/wordpress-plugin-ninja-forms-pdf-form-submissions.git",
+                "reference": "master"
+            },
+            "type": "wordpress-plugin",
+            "installation-source": "source",
+            "install-path": "../../plugins/wordpress-plugin-ninja-forms-pdf-form-submissions"
+        },
+        {
+            "name": "bas/wordpress-plugin-ninja-tables-pro",
+            "version": "4.1.5",
+            "version_normalized": "4.1.5.0",
+            "source": {
+                "type": "git",
+                "url": "https://bitbucket.chenmed.com/scm/bas/wordpress-plugin-ninja-tables-pro.git",
+                "reference": "master"
+            },
+            "type": "wordpress-plugin",
+            "installation-source": "source",
+            "install-path": "../../plugins/wordpress-plugin-ninja-tables-pro"
+        },
+        {
+            "name": "bas/wordpress-plugin-remove-tags-from-posts",
+            "version": "1.0.0",
+            "version_normalized": "1.0.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://bitbucket.chenmed.com/scm/bas/wordpress-plugin-remove-tags-from-posts.git",
+                "reference": "master"
+            },
+            "type": "wordpress-plugin",
+            "installation-source": "source",
+            "install-path": "../../plugins/wordpress-plugin-remove-tags-from-posts"
+        },
+        {
+            "name": "bas/wordpress-plugin-search-filter-pro",
+            "version": "2.5.6",
+            "version_normalized": "2.5.6.0",
+            "source": {
+                "type": "git",
+                "url": "https://bitbucket.chenmed.com/scm/bas/wordpress-plugin-search-filter-pro.git",
+                "reference": "master"
+            },
+            "type": "wordpress-plugin",
+            "installation-source": "source",
+            "install-path": "../../plugins/wordpress-plugin-search-filter-pro"
+        },
+        {
+            "name": "bas/wordpress-plugin-searchwp",
+            "version": "3.1.16",
+            "version_normalized": "3.1.16.0",
+            "source": {
+                "type": "git",
+                "url": "https://bitbucket.chenmed.com/scm/bas/wordpress-plugin-searchwp.git",
+                "reference": "master"
+            },
+            "type": "wordpress-plugin",
+            "installation-source": "source",
+            "install-path": "../../plugins/wordpress-plugin-searchwp"
+        },
+        {
+            "name": "bas/wordpress-plugin-searchwp-customizations",
+            "version": "1.0.0",
+            "version_normalized": "1.0.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://bitbucket.chenmed.com/scm/bas/wordpress-plugin-searchwp-customizations.git",
+                "reference": "master"
+            },
+            "type": "wordpress-plugin",
+            "installation-source": "source",
+            "install-path": "../../plugins/wordpress-plugin-searchwp-customizations"
+        },
+        {
+            "name": "bas/wordpress-plugin-searchwp-redirects",
+            "version": "5.6.0",
+            "version_normalized": "5.6.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://bitbucket.chenmed.com/scm/bas/wordpress-plugin-searchwp-redirects.git",
+                "reference": "master"
+            },
+            "type": "wordpress-plugin",
+            "installation-source": "source",
+            "install-path": "../../plugins/wordpress-plugin-searchwp-redirects"
+        },
+        {
+            "name": "bas/wordpress-plugin-widget-shortcodes",
+            "version": "1.0.1",
+            "version_normalized": "1.0.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://bitbucket.chenmed.com/scm/bas/wordpress-plugin-widget-shortcodes.git",
+                "reference": "master"
+            },
+            "type": "wordpress-plugin",
+            "installation-source": "source",
+            "install-path": "../../plugins/wordpress-plugin-widget-shortcodes"
+        },
+        {
+            "name": "bas/wordpress-theme-extra",
+            "version": "4.9.0",
+            "version_normalized": "4.9.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://bitbucket.chenmed.com/scm/bas/wordpress-theme-extra.git",
+                "reference": "4f4211b8c3c524c8543672e5a387e0b466a54ba7"
+            },
+            "time": "2021-03-02T18:47:00+00:00",
+            "type": "wordpress-theme",
+            "extra": {
+                "installer-name": "Extra"
+            },
+            "installation-source": "source",
+            "description": "Wordpress Theme - Extra by Elegant Themes",
+            "install-path": "../../themes/Extra"
+        },
+        {
+            "name": "bas/wordpress-theme-home",
+            "version": "1.1.42",
+            "version_normalized": "1.1.42.0",
+            "source": {
+                "type": "git",
+                "url": "https://bitbucket.chenmed.com/scm/bas/wordpress-theme-home.git",
+                "reference": "249069ee09aa6396c2d1383d7bcf104b6aecbd76"
+            },
+            "time": "2021-08-20T17:35:14+00:00",
+            "type": "wordpress-theme",
+            "extra": {
+                "installer-name": "ExtraChildTheme"
+            },
+            "installation-source": "source",
+            "authors": [
+                {
+                    "name": "Zurab Shubitidze",
+                    "email": "zurab.shubitidze@chenmed.com"
+                },
+                {
+                    "name": "Rosie Faulkner",
+                    "email": "rosie.faulkner@chenmed.com"
+                }
+            ],
+            "description": "Wordpress Theme - ChenMed Intranet",
+            "install-path": "../../themes/ExtraChildTheme"
+        },
+        {
+            "name": "composer/installers",
+            "version": "v2.0.1",
+            "version_normalized": "2.0.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/composer/installers.git",
+                "reference": "a241e78aaeb09781f5f5b92ac01ffd13ab43e5e8"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/composer/installers/zipball/a241e78aaeb09781f5f5b92ac01ffd13ab43e5e8",
+                "reference": "a241e78aaeb09781f5f5b92ac01ffd13ab43e5e8",
+                "shasum": ""
+            },
+            "require": {
+                "composer-plugin-api": "^1.0 || ^2.0",
+                "php": "^7.2 || ^8.0"
+            },
+            "require-dev": {
+                "composer/composer": "1.6.* || ^2.0",
+                "composer/semver": "^1 || ^3",
+                "phpstan/phpstan": "^0.12.55",
+                "phpstan/phpstan-phpunit": "^0.12.16",
+                "symfony/phpunit-bridge": "^5.3",
+                "symfony/process": "^5"
+            },
+            "time": "2021-09-13T08:21:20+00:00",
+            "type": "composer-plugin",
+            "extra": {
+                "class": "Composer\\Installers\\Plugin",
+                "branch-alias": {
+                    "dev-main": "2.x-dev"
+                }
+            },
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "Composer\\Installers\\": "src/Composer/Installers"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Kyle Robinson Young",
+                    "email": "kyle@dontkry.com",
+                    "homepage": "https://github.com/shama"
+                }
+            ],
+            "description": "A multi-framework Composer library installer",
+            "homepage": "https://composer.github.io/installers/",
+            "keywords": [
+                "Dolibarr",
+                "Eliasis",
+                "Hurad",
+                "ImageCMS",
+                "Kanboard",
+                "Lan Management System",
+                "MODX Evo",
+                "MantisBT",
+                "Mautic",
+                "Maya",
+                "OXID",
+                "Plentymarkets",
+                "Porto",
+                "RadPHP",
+                "SMF",
+                "Starbug",
+                "Thelia",
+                "Whmcs",
+                "WolfCMS",
+                "agl",
+                "annotatecms",
+                "attogram",
+                "bitrix",
+                "cakephp",
+                "chef",
+                "cockpit",
+                "codeigniter",
+                "concrete5",
+                "croogo",
+                "dokuwiki",
+                "drupal",
+                "eZ Platform",
+                "elgg",
+                "expressionengine",
+                "fuelphp",
+                "grav",
+                "installer",
+                "itop",
+                "known",
+                "kohana",
+                "laravel",
+                "lavalite",
+                "lithium",
+                "magento",
+                "majima",
+                "mako",
+                "mediawiki",
+                "miaoxing",
+                "modulework",
+                "modx",
+                "moodle",
+                "osclass",
+                "pantheon",
+                "phpbb",
+                "piwik",
+                "ppi",
+                "processwire",
+                "puppet",
+                "pxcms",
+                "reindex",
+                "roundcube",
+                "shopware",
+                "silverstripe",
+                "sydes",
+                "sylius",
+                "tastyigniter",
+                "wordpress",
+                "yawik",
+                "zend",
+                "zikula"
+            ],
+            "support": {
+                "issues": "https://github.com/composer/installers/issues",
+                "source": "https://github.com/composer/installers/tree/v2.0.1"
+            },
+            "funding": [
+                {
+                    "url": "https://packagist.com",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://github.com/composer",
+                    "type": "github"
+                },
+                {
+                    "url": "https://tidelift.com/funding/github/packagist/composer/composer",
+                    "type": "tidelift"
+                }
+            ],
+            "install-path": "./installers"
+        },
+        {
+            "name": "graham-campbell/result-type",
+            "version": "v1.0.4",
+            "version_normalized": "1.0.4.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/GrahamCampbell/Result-Type.git",
+                "reference": "0690bde05318336c7221785f2a932467f98b64ca"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/GrahamCampbell/Result-Type/zipball/0690bde05318336c7221785f2a932467f98b64ca",
+                "reference": "0690bde05318336c7221785f2a932467f98b64ca",
+                "shasum": ""
+            },
+            "require": {
+                "php": "^7.0 || ^8.0",
+                "phpoption/phpoption": "^1.8"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^6.5.14 || ^7.5.20 || ^8.5.19 || ^9.5.8"
+            },
+            "time": "2021-11-21T21:41:47+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "GrahamCampbell\\ResultType\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Graham Campbell",
+                    "email": "hello@gjcampbell.co.uk",
+                    "homepage": "https://github.com/GrahamCampbell"
+                }
+            ],
+            "description": "An Implementation Of The Result Type",
+            "keywords": [
+                "Graham Campbell",
+                "GrahamCampbell",
+                "Result Type",
+                "Result-Type",
+                "result"
+            ],
+            "support": {
+                "issues": "https://github.com/GrahamCampbell/Result-Type/issues",
+                "source": "https://github.com/GrahamCampbell/Result-Type/tree/v1.0.4"
+            },
+            "funding": [
+                {
+                    "url": "https://github.com/GrahamCampbell",
+                    "type": "github"
+                },
+                {
+                    "url": "https://tidelift.com/funding/github/packagist/graham-campbell/result-type",
+                    "type": "tidelift"
+                }
+            ],
+            "install-path": "../graham-campbell/result-type"
+        },
+        {
+            "name": "johnpbloch/wordpress",
+            "version": "5.6.2",
+            "version_normalized": "5.6.2.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/johnpbloch/wordpress.git",
+                "reference": "784b3440c9a11c3b65b988cc441db332ab0e6c49"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/johnpbloch/wordpress/zipball/784b3440c9a11c3b65b988cc441db332ab0e6c49",
+                "reference": "784b3440c9a11c3b65b988cc441db332ab0e6c49",
+                "shasum": ""
+            },
+            "require": {
+                "johnpbloch/wordpress-core": "5.6.2",
+                "johnpbloch/wordpress-core-installer": "^1.0 || ^2.0",
+                "php": ">=5.6.20"
+            },
+            "time": "2021-02-22T15:30:37+00:00",
+            "type": "package",
+            "installation-source": "dist",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-2.0+"
+            ],
+            "authors": [
+                {
+                    "name": "WordPress Community",
+                    "homepage": "http://wordpress.org/about/"
+                }
+            ],
+            "description": "WordPress is open source software you can use to create a beautiful website, blog, or app.",
+            "homepage": "http://wordpress.org/",
+            "keywords": [
+                "blog",
+                "cms",
+                "wordpress"
+            ],
+            "support": {
+                "forum": "http://wordpress.org/support/",
+                "irc": "irc://irc.freenode.net/wordpress",
+                "issues": "http://core.trac.wordpress.org/",
+                "source": "http://core.trac.wordpress.org/browser",
+                "wiki": "http://codex.wordpress.org/"
+            },
+            "install-path": "../johnpbloch/wordpress"
+        },
+        {
+            "name": "johnpbloch/wordpress-core",
+            "version": "5.6.2",
+            "version_normalized": "5.6.2.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/johnpbloch/wordpress-core.git",
+                "reference": "e48e723c0d7e38c5580631e6ffea29a4388c5dd0"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/johnpbloch/wordpress-core/zipball/e48e723c0d7e38c5580631e6ffea29a4388c5dd0",
+                "reference": "e48e723c0d7e38c5580631e6ffea29a4388c5dd0",
+                "shasum": ""
+            },
+            "require": {
+                "ext-json": "*",
+                "php": ">=5.6.20"
+            },
+            "provide": {
+                "wordpress/core-implementation": "5.6.2"
+            },
+            "time": "2021-02-22T15:30:31+00:00",
+            "type": "wordpress-core",
+            "installation-source": "dist",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-2.0-or-later"
+            ],
+            "authors": [
+                {
+                    "name": "WordPress Community",
+                    "homepage": "https://wordpress.org/about/"
+                }
+            ],
+            "description": "WordPress is open source software you can use to create a beautiful website, blog, or app.",
+            "homepage": "https://wordpress.org/",
+            "keywords": [
+                "blog",
+                "cms",
+                "wordpress"
+            ],
+            "support": {
+                "forum": "https://wordpress.org/support/",
+                "irc": "irc://irc.freenode.net/wordpress",
+                "issues": "https://core.trac.wordpress.org/",
+                "source": "https://core.trac.wordpress.org/browser",
+                "wiki": "https://codex.wordpress.org/"
+            },
+            "install-path": "../../../wordpress"
+        },
+        {
+            "name": "johnpbloch/wordpress-core-installer",
+            "version": "2.0.0",
+            "version_normalized": "2.0.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/johnpbloch/wordpress-core-installer.git",
+                "reference": "237faae9a60a4a2e1d45dce1a5836ffa616de63e"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/johnpbloch/wordpress-core-installer/zipball/237faae9a60a4a2e1d45dce1a5836ffa616de63e",
+                "reference": "237faae9a60a4a2e1d45dce1a5836ffa616de63e",
+                "shasum": ""
+            },
+            "require": {
+                "composer-plugin-api": "^1.0 || ^2.0",
+                "php": ">=5.6.0"
+            },
+            "conflict": {
+                "composer/installers": "<1.0.6"
+            },
+            "require-dev": {
+                "composer/composer": "^1.0 || ^2.0",
+                "phpunit/phpunit": ">=5.7.27"
+            },
+            "time": "2020-04-16T21:44:57+00:00",
+            "type": "composer-plugin",
+            "extra": {
+                "class": "johnpbloch\\Composer\\WordPressCorePlugin"
+            },
+            "installation-source": "dist",
+            "autoload": {
+                "psr-0": {
+                    "johnpbloch\\Composer\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-2.0-or-later"
+            ],
+            "authors": [
+                {
+                    "name": "John P. Bloch",
+                    "email": "me@johnpbloch.com"
+                }
+            ],
+            "description": "A custom installer to handle deploying WordPress with composer",
+            "keywords": [
+                "wordpress"
+            ],
+            "support": {
+                "issues": "https://github.com/johnpbloch/wordpress-core-installer/issues",
+                "source": "https://github.com/johnpbloch/wordpress-core-installer/tree/master"
+            },
+            "install-path": "../johnpbloch/wordpress-core-installer"
+        },
+        {
+            "name": "phpoption/phpoption",
+            "version": "1.8.1",
+            "version_normalized": "1.8.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/schmittjoh/php-option.git",
+                "reference": "eab7a0df01fe2344d172bff4cd6dbd3f8b84ad15"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/schmittjoh/php-option/zipball/eab7a0df01fe2344d172bff4cd6dbd3f8b84ad15",
+                "reference": "eab7a0df01fe2344d172bff4cd6dbd3f8b84ad15",
+                "shasum": ""
+            },
+            "require": {
+                "php": "^7.0 || ^8.0"
+            },
+            "require-dev": {
+                "bamarni/composer-bin-plugin": "^1.4.1",
+                "phpunit/phpunit": "^6.5.14 || ^7.5.20 || ^8.5.19 || ^9.5.8"
+            },
+            "time": "2021-12-04T23:24:31+00:00",
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "1.8-dev"
+                }
+            },
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "PhpOption\\": "src/PhpOption/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "Apache-2.0"
+            ],
+            "authors": [
+                {
+                    "name": "Johannes M. Schmitt",
+                    "email": "schmittjoh@gmail.com",
+                    "homepage": "https://github.com/schmittjoh"
+                },
+                {
+                    "name": "Graham Campbell",
+                    "email": "hello@gjcampbell.co.uk",
+                    "homepage": "https://github.com/GrahamCampbell"
+                }
+            ],
+            "description": "Option Type for PHP",
+            "keywords": [
+                "language",
+                "option",
+                "php",
+                "type"
+            ],
+            "support": {
+                "issues": "https://github.com/schmittjoh/php-option/issues",
+                "source": "https://github.com/schmittjoh/php-option/tree/1.8.1"
+            },
+            "funding": [
+                {
+                    "url": "https://github.com/GrahamCampbell",
+                    "type": "github"
+                },
+                {
+                    "url": "https://tidelift.com/funding/github/packagist/phpoption/phpoption",
+                    "type": "tidelift"
+                }
+            ],
+            "install-path": "../phpoption/phpoption"
+        },
+        {
+            "name": "searchwp/searchwp-metrics",
+            "version": "1.4.0",
+            "version_normalized": "1.4.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://bitbucket.chenmed.com/scm/bas/wordpress-plugin-searchwp-metrics.git",
+                "reference": "b73209752c0e26cf69dc52791290af41913b6df0"
+            },
+            "require": {
+                "php": ">=5.3.2"
+            },
+            "time": "2021-03-02T21:01:12+00:00",
+            "type": "wordpress-plugin",
+            "installation-source": "source",
+            "autoload": {
+                "psr-4": {
+                    "SearchWP_Metrics\\": "includes"
+                }
+            },
+            "authors": [
+                {
+                    "name": "SearchWP, LLC",
+                    "homepage": "https://searchwp.com/"
+                }
+            ],
+            "description": "Advanced search metrics from SearchWP",
+            "homepage": "https://searchwp.com/extensions/metrics/",
+            "keywords": [
+                "metrics",
+                "search",
+                "wordpress"
+            ],
+            "install-path": "../../plugins/searchwp-metrics"
+        },
+        {
+            "name": "symfony/polyfill-ctype",
+            "version": "v1.23.0",
+            "version_normalized": "1.23.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/symfony/polyfill-ctype.git",
+                "reference": "46cd95797e9df938fdd2b03693b5fca5e64b01ce"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/symfony/polyfill-ctype/zipball/46cd95797e9df938fdd2b03693b5fca5e64b01ce",
+                "reference": "46cd95797e9df938fdd2b03693b5fca5e64b01ce",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.1"
+            },
+            "suggest": {
+                "ext-ctype": "For best performance"
+            },
+            "time": "2021-02-19T12:13:01+00:00",
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-main": "1.23-dev"
+                },
+                "thanks": {
+                    "name": "symfony/polyfill",
+                    "url": "https://github.com/symfony/polyfill"
+                }
+            },
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "Symfony\\Polyfill\\Ctype\\": ""
+                },
+                "files": [
+                    "bootstrap.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Gert de Pagter",
+                    "email": "BackEndTea@gmail.com"
+                },
+                {
+                    "name": "Symfony Community",
+                    "homepage": "https://symfony.com/contributors"
+                }
+            ],
+            "description": "Symfony polyfill for ctype functions",
+            "homepage": "https://symfony.com",
+            "keywords": [
+                "compatibility",
+                "ctype",
+                "polyfill",
+                "portable"
+            ],
+            "support": {
+                "source": "https://github.com/symfony/polyfill-ctype/tree/v1.23.0"
+            },
+            "funding": [
+                {
+                    "url": "https://symfony.com/sponsor",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://github.com/fabpot",
+                    "type": "github"
+                },
+                {
+                    "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
+                    "type": "tidelift"
+                }
+            ],
+            "install-path": "../symfony/polyfill-ctype"
+        },
+        {
+            "name": "symfony/polyfill-mbstring",
+            "version": "v1.23.1",
+            "version_normalized": "1.23.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/symfony/polyfill-mbstring.git",
+                "reference": "9174a3d80210dca8daa7f31fec659150bbeabfc6"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/symfony/polyfill-mbstring/zipball/9174a3d80210dca8daa7f31fec659150bbeabfc6",
+                "reference": "9174a3d80210dca8daa7f31fec659150bbeabfc6",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.1"
+            },
+            "suggest": {
+                "ext-mbstring": "For best performance"
+            },
+            "time": "2021-05-27T12:26:48+00:00",
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-main": "1.23-dev"
+                },
+                "thanks": {
+                    "name": "symfony/polyfill",
+                    "url": "https://github.com/symfony/polyfill"
+                }
+            },
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "Symfony\\Polyfill\\Mbstring\\": ""
+                },
+                "files": [
+                    "bootstrap.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Nicolas Grekas",
+                    "email": "p@tchwork.com"
+                },
+                {
+                    "name": "Symfony Community",
+                    "homepage": "https://symfony.com/contributors"
+                }
+            ],
+            "description": "Symfony polyfill for the Mbstring extension",
+            "homepage": "https://symfony.com",
+            "keywords": [
+                "compatibility",
+                "mbstring",
+                "polyfill",
+                "portable",
+                "shim"
+            ],
+            "support": {
+                "source": "https://github.com/symfony/polyfill-mbstring/tree/v1.23.1"
+            },
+            "funding": [
+                {
+                    "url": "https://symfony.com/sponsor",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://github.com/fabpot",
+                    "type": "github"
+                },
+                {
+                    "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
+                    "type": "tidelift"
+                }
+            ],
+            "install-path": "../symfony/polyfill-mbstring"
+        },
+        {
+            "name": "symfony/polyfill-php80",
+            "version": "v1.23.1",
+            "version_normalized": "1.23.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/symfony/polyfill-php80.git",
+                "reference": "1100343ed1a92e3a38f9ae122fc0eb21602547be"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/symfony/polyfill-php80/zipball/1100343ed1a92e3a38f9ae122fc0eb21602547be",
+                "reference": "1100343ed1a92e3a38f9ae122fc0eb21602547be",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.1"
+            },
+            "time": "2021-07-28T13:41:28+00:00",
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-main": "1.23-dev"
+                },
+                "thanks": {
+                    "name": "symfony/polyfill",
+                    "url": "https://github.com/symfony/polyfill"
+                }
+            },
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "Symfony\\Polyfill\\Php80\\": ""
+                },
+                "files": [
+                    "bootstrap.php"
+                ],
+                "classmap": [
+                    "Resources/stubs"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Ion Bazan",
+                    "email": "ion.bazan@gmail.com"
+                },
+                {
+                    "name": "Nicolas Grekas",
+                    "email": "p@tchwork.com"
+                },
+                {
+                    "name": "Symfony Community",
+                    "homepage": "https://symfony.com/contributors"
+                }
+            ],
+            "description": "Symfony polyfill backporting some PHP 8.0+ features to lower PHP versions",
+            "homepage": "https://symfony.com",
+            "keywords": [
+                "compatibility",
+                "polyfill",
+                "portable",
+                "shim"
+            ],
+            "support": {
+                "source": "https://github.com/symfony/polyfill-php80/tree/v1.23.1"
+            },
+            "funding": [
+                {
+                    "url": "https://symfony.com/sponsor",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://github.com/fabpot",
+                    "type": "github"
+                },
+                {
+                    "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
+                    "type": "tidelift"
+                }
+            ],
+            "install-path": "../symfony/polyfill-php80"
+        },
+        {
+            "name": "vlucas/phpdotenv",
+            "version": "v5.4.1",
+            "version_normalized": "5.4.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/vlucas/phpdotenv.git",
+                "reference": "264dce589e7ce37a7ba99cb901eed8249fbec92f"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/vlucas/phpdotenv/zipball/264dce589e7ce37a7ba99cb901eed8249fbec92f",
+                "reference": "264dce589e7ce37a7ba99cb901eed8249fbec92f",
+                "shasum": ""
+            },
+            "require": {
+                "ext-pcre": "*",
+                "graham-campbell/result-type": "^1.0.2",
+                "php": "^7.1.3 || ^8.0",
+                "phpoption/phpoption": "^1.8",
+                "symfony/polyfill-ctype": "^1.23",
+                "symfony/polyfill-mbstring": "^1.23.1",
+                "symfony/polyfill-php80": "^1.23.1"
+            },
+            "require-dev": {
+                "bamarni/composer-bin-plugin": "^1.4.1",
+                "ext-filter": "*",
+                "phpunit/phpunit": "^7.5.20 || ^8.5.21 || ^9.5.10"
+            },
+            "suggest": {
+                "ext-filter": "Required to use the boolean validator."
+            },
+            "time": "2021-12-12T23:22:04+00:00",
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "5.4-dev"
+                }
+            },
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "Dotenv\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-3-Clause"
+            ],
+            "authors": [
+                {
+                    "name": "Graham Campbell",
+                    "email": "hello@gjcampbell.co.uk",
+                    "homepage": "https://github.com/GrahamCampbell"
+                },
+                {
+                    "name": "Vance Lucas",
+                    "email": "vance@vancelucas.com",
+                    "homepage": "https://github.com/vlucas"
+                }
+            ],
+            "description": "Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.",
+            "keywords": [
+                "dotenv",
+                "env",
+                "environment"
+            ],
+            "support": {
+                "issues": "https://github.com/vlucas/phpdotenv/issues",
+                "source": "https://github.com/vlucas/phpdotenv/tree/v5.4.1"
+            },
+            "funding": [
+                {
+                    "url": "https://github.com/GrahamCampbell",
+                    "type": "github"
+                },
+                {
+                    "url": "https://tidelift.com/funding/github/packagist/vlucas/phpdotenv",
+                    "type": "tidelift"
+                }
+            ],
+            "install-path": "../vlucas/phpdotenv"
+        },
+        {
+            "name": "wpackagist-plugin/caldera-forms",
+            "version": "1.9.4",
+            "version_normalized": "1.9.4.0",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/caldera-forms/",
+                "reference": "tags/1.9.4"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/caldera-forms.1.9.4.zip"
+            },
+            "require": {
+                "composer/installers": "~1.0 || ~2.0"
+            },
+            "type": "wordpress-plugin",
+            "installation-source": "dist",
+            "homepage": "https://wordpress.org/plugins/caldera-forms/",
+            "install-path": "../../plugins/caldera-forms"
+        },
+        {
+            "name": "wpackagist-plugin/disable-big-image-threshold",
+            "version": "1.0",
+            "version_normalized": "1.0.0.0",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/disable-big-image-threshold/",
+                "reference": "tags/1.0"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/disable-big-image-threshold.1.0.zip"
+            },
+            "require": {
+                "composer/installers": "~1.0 || ~2.0"
+            },
+            "type": "wordpress-plugin",
+            "installation-source": "dist",
+            "homepage": "https://wordpress.org/plugins/disable-big-image-threshold/",
+            "install-path": "../../plugins/disable-big-image-threshold"
+        },
+        {
+            "name": "wpackagist-plugin/highlight-search-terms",
+            "version": "1.5.6",
+            "version_normalized": "1.5.6.0",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/highlight-search-terms/",
+                "reference": "tags/1.5.6"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/highlight-search-terms.1.5.6.zip"
+            },
+            "require": {
+                "composer/installers": "~1.0 || ~2.0"
+            },
+            "type": "wordpress-plugin",
+            "installation-source": "dist",
+            "homepage": "https://wordpress.org/plugins/highlight-search-terms/",
+            "install-path": "../../plugins/highlight-search-terms"
+        },
+        {
+            "name": "wpackagist-plugin/loxi-event-calendar",
+            "version": "1.0",
+            "version_normalized": "1.0.0.0",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/loxi-event-calendar/",
+                "reference": "tags/1.0"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/loxi-event-calendar.1.0.zip"
+            },
+            "require": {
+                "composer/installers": "~1.0 || ~2.0"
+            },
+            "type": "wordpress-plugin",
+            "installation-source": "dist",
+            "homepage": "https://wordpress.org/plugins/loxi-event-calendar/",
+            "install-path": "../../plugins/loxi-event-calendar"
+        },
+        {
+            "name": "wpackagist-plugin/ninja-forms",
+            "version": "3.5.4",
+            "version_normalized": "3.5.4.0",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/ninja-forms/",
+                "reference": "tags/3.5.4"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/ninja-forms.3.5.4.zip"
+            },
+            "require": {
+                "composer/installers": "~1.0 || ~2.0"
+            },
+            "type": "wordpress-plugin",
+            "installation-source": "dist",
+            "homepage": "https://wordpress.org/plugins/ninja-forms/",
+            "install-path": "../../plugins/ninja-forms"
+        },
+        {
+            "name": "wpackagist-plugin/ninja-tables",
+            "version": "4.1.5",
+            "version_normalized": "4.1.5.0",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/ninja-tables/",
+                "reference": "tags/4.1.5"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/ninja-tables.4.1.5.zip"
+            },
+            "require": {
+                "composer/installers": "~1.0 || ~2.0"
+            },
+            "type": "wordpress-plugin",
+            "installation-source": "dist",
+            "homepage": "https://wordpress.org/plugins/ninja-tables/",
+            "install-path": "../../plugins/ninja-tables"
+        },
+        {
+            "name": "wpackagist-plugin/onelogin-saml-sso",
+            "version": "3.3.1",
+            "version_normalized": "3.3.1.0",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/onelogin-saml-sso/",
+                "reference": "trunk"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/onelogin-saml-sso.zip?timestamp=1610559925"
+            },
+            "require": {
+                "composer/installers": "~1.0 || ~2.0"
+            },
+            "type": "wordpress-plugin",
+            "installation-source": "dist",
+            "homepage": "https://wordpress.org/plugins/onelogin-saml-sso/",
+            "install-path": "../../plugins/onelogin-saml-sso"
+        },
+        {
+            "name": "wpackagist-plugin/pdfjs-viewer-shortcode",
+            "version": "1.5.9",
+            "version_normalized": "1.5.9.0",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/pdfjs-viewer-shortcode/",
+                "reference": "tags/1.5.9"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/pdfjs-viewer-shortcode.1.5.9.zip"
+            },
+            "require": {
+                "composer/installers": "~1.0 || ~2.0"
+            },
+            "type": "wordpress-plugin",
+            "installation-source": "dist",
+            "homepage": "https://wordpress.org/plugins/pdfjs-viewer-shortcode/",
+            "install-path": "../../plugins/pdfjs-viewer-shortcode"
+        },
+        {
+            "name": "wpackagist-plugin/redirection",
+            "version": "5.0.1",
+            "version_normalized": "5.0.1.0",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/redirection/",
+                "reference": "tags/5.0.1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/redirection.5.0.1.zip"
+            },
+            "require": {
+                "composer/installers": "~1.0 || ~2.0"
+            },
+            "type": "wordpress-plugin",
+            "installation-source": "dist",
+            "homepage": "https://wordpress.org/plugins/redirection/",
+            "install-path": "../../plugins/redirection"
+        },
+        {
+            "name": "wpackagist-plugin/searchwp-live-ajax-search",
+            "version": "1.6.1",
+            "version_normalized": "1.6.1.0",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/searchwp-live-ajax-search/",
+                "reference": "tags/1.6.1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/searchwp-live-ajax-search.1.6.1.zip"
+            },
+            "require": {
+                "composer/installers": "~1.0 || ~2.0"
+            },
+            "type": "wordpress-plugin",
+            "installation-source": "dist",
+            "homepage": "https://wordpress.org/plugins/searchwp-live-ajax-search/",
+            "install-path": "../../plugins/searchwp-live-ajax-search"
+        },
+        {
+            "name": "wpackagist-plugin/was-this-article-helpful",
+            "version": "1.0.2",
+            "version_normalized": "1.0.2.0",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/was-this-article-helpful/",
+                "reference": "trunk"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/was-this-article-helpful.zip?timestamp=1626200888"
+            },
+            "require": {
+                "composer/installers": "~1.0 || ~2.0"
+            },
+            "type": "wordpress-plugin",
+            "installation-source": "dist",
+            "homepage": "https://wordpress.org/plugins/was-this-article-helpful/",
+            "install-path": "../../plugins/was-this-article-helpful"
+        },
+        {
+            "name": "wpackagist-plugin/webp-express",
+            "version": "0.19.0",
+            "version_normalized": "0.19.0.0",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/webp-express/",
+                "reference": "tags/0.19.0"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/webp-express.0.19.0.zip"
+            },
+            "require": {
+                "composer/installers": "~1.0 || ~2.0"
+            },
+            "type": "wordpress-plugin",
+            "installation-source": "dist",
+            "homepage": "https://wordpress.org/plugins/webp-express/",
+            "install-path": "../../plugins/webp-express"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}
