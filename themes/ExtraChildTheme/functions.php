@@ -210,7 +210,5 @@ function sbs_show_remote_posts(){
     ob_end_clean();
 	return $out_put_string;
   }
-  echo do_shortcode('[show_remote_posts]');
-die;
   
 /* +++++++++++++++++++++++++++++++sbs develoepr work++++++++++++++++++++++++++++++++++++++++++ */
