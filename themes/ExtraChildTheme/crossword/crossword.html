@@ -1,0 +1,71 @@
+<div id="dsCrossword"><!-- puzzle area --></div>
+<script type="text/javascript">
+	var items = [
+		{
+			item_id: 1423840965547,
+			direction: "across",
+			clue:
+				"She is a board certified Filipino American physician and pediatric immunologist, named one of Time 100’s most influential people in 2013.",
+			answer: "LUZURIAGA",
+			start_x: 4,
+			start_y: 6,
+		},
+		{
+			item_id: 1423841120911,
+			direction: "across",
+			clue:
+				"He was named TIME Magazine’s Man of the Year in 1996 for pioneering the treatment of HIV/AIDS.",
+			answer: "HO",
+			start_x: 8,
+			start_y: 9,
+		},
+		{
+			item_id: 1423841138354,
+			direction: "across",
+			clue: "First known female Chinese-American physician.",
+			answer: "CHUNG",
+			start_x: 5,
+			start_y: 11,
+		},
+		{
+			item_id: 1423840947847,
+			direction: "down",
+			clue: "One of the founders of ChenMed. She immigrated to America from Taiwan at the young age of 22; helped build the company while raising two boys.",
+			answer: "MARYCHEN",
+			start_x: 8,
+			start_y: 4,
+		},
+		{
+			item_id: 1423841261311,
+			direction: "down",
+			clue: "Born in China in 1912; she is called the First Lady of Physics.",
+			answer: "WU",
+			start_x: 5,
+			start_y: 5,
+		},
+		{
+			item_id: 1423841011121,
+			direction: "down",
+			clue: "He is the first and only actor of Asian descent to win an Academy Award for Best Supporting Actor.",
+			answer: "NGOR",
+			start_x: 11,
+			start_y: 5,
+		},
+	];
+	jQuery(function () {
+		jQuery("#dsCrossword").dsCrossword({
+			itemsSource: items,
+			cluesPosition: "right",
+			activeCluePosition: "top",
+			initAnswers: {
+				"23-across": "fifteen",
+			},
+			colors: {
+				puzzleBg: "",
+				active: "",
+				selected: "",
+				puzzleFont: "",
+			},
+		});
+	});
+</script>

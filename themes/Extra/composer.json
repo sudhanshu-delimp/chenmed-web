@@ -1,0 +1,8 @@
+{
+    "name": "bas/wordpress-theme-extra",
+    "description": "Wordpress Theme - Extra by Elegant Themes",
+    "type": "wordpress-theme",
+    "extra": {
+        "installer-name": "Extra"
+    }
+}

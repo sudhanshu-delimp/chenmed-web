@@ -1,0 +1,18 @@
+{
+    "name": "bas/wordpress-theme-home",
+    "description": "Wordpress Theme - ChenMed Intranet",
+    "type": "wordpress-theme",
+    "extra": {
+        "installer-name": "ExtraChildTheme"
+    },
+    "authors": [
+        {
+            "name": "Zurab Shubitidze",
+            "email": "zurab.shubitidze@chenmed.com"
+        },
+        {
+            "name": "Rosie Faulkner",
+            "email": "rosie.faulkner@chenmed.com"
+        }
+    ]
+}
