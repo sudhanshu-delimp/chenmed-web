@@ -157,8 +157,60 @@ function get_post_summary($post_type='post',$post_id=0,$content_length = 50){
 	$summary = ($summary!='')?mb_substr($summary,0,$content_length,'utf-8').'...':$summary;
 	return $summary;
 }
-//add();
-function done(){
-	
+add_shortcode("show_remote_posts", 'sbs_show_remote_posts');
+
+function sbs_getDateTime($datetime='',$format='Y-m-d H:i:s') {
+	$format = trim($format)=='' ? 'Y-m-d H:i:s' : $format;
+	$datetime = (trim($datetime)=='') ? date($format) : $datetime;
+	return date($format,strtotime($datetime));
 }
+
+function get_articles($start=0, $limit=3, $post_type='post', $post_status='publish', $category_id = 0){
+    global $wpdb;
+    $posts = [];
+    $article_query = "SELECT p.ID,p.post_title,p.post_content,p.post_date FROM {$wpdb->prefix}posts AS p";
+    /*joins*/
+    if($category_id > 0){
+      $article_query .=" LEFT JOIN wp_term_relationships rel ON rel.object_id = p.ID";
+      $article_query .=" LEFT JOIN wp_term_taxonomy tax ON tax.term_taxonomy_id = rel.term_taxonomy_id";
+      $article_query .=" LEFT JOIN wp_terms trm ON trm.term_id = tax.term_id";
+    }
+    /*where*/
+    $article_query .=" WHERE p.post_type='{$post_type}'";
+    if($category_id > 0){
+      $article_query .=" AND trm.term_id={$category_id}";
+    }
+    $article_query .=" AND p.post_status='{$post_status}'";
+    $article_query .=" ORDER BY p.ID DESC LIMIT {$start},{$limit}";
+    $posts = $wpdb->get_results($article_query);
+    if(!empty($posts)){
+      foreach($posts as $key=>$post){
+       $posts[$key]->categories = get_the_category($post->ID);
+       $posts[$key]->post_link = get_permalink($post->ID);
+       $posts[$key]->post_image_url = wp_get_attachment_image_src(get_post_thumbnail_id($post->ID), 'single-post-thumbnail')[0];
+      }
+    }
+    return $posts;
+  }
+
+function sbs_show_remote_posts(){
+	$posts = get_articles();
+	$template = '';
+    if(!empty($posts)){
+      foreach($posts as $post){
+        ob_start();
+        include get_stylesheet_directory().'/custom-include/single-remote-post.php';
+        $template .= ob_get_contents();
+        ob_end_clean();
+      }
+    }
+    ob_start();
+    include get_stylesheet_directory().'/custom-include/archive-remote-post.php';
+    $out_put_string .= ob_get_contents();
+    ob_end_clean();
+	return $out_put_string;
+  }
+  echo do_shortcode('[show_remote_posts]');
+die;
+  
 /* +++++++++++++++++++++++++++++++sbs develoepr work++++++++++++++++++++++++++++++++++++++++++ */
